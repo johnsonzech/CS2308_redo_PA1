@@ -20,3 +20,4 @@ original instructions, it is assumed that the original instructions will be foll
 
 1. Sample output file output1.txt is unavailable -- make output table easily readable
 2. If more than one part shares the maximum quantity, output all part names that share the maximum quantity.
+3. Typo in instructions: Each of the four functions should take an array of struct --NOT Category
